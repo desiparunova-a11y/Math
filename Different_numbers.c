@@ -57,7 +57,7 @@ int main()
         i++;
     }
     
-    printf("The number of numbers with different digits is: %d", numC);
+    printf("The number of numbers with (same) digits is: %d", numC);
     
     return 0;
 }
